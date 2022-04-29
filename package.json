@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3"
+  },
+  "name": "sp22kdherokupostgresio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn0ckout9/sp22kdherokupostgresio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kn0ckout9/sp22kdherokupostgresio/issues"
+  },
+  "homepage": "https://github.com/kn0ckout9/sp22kdherokupostgresio#readme",
+  "description": ""
+}
